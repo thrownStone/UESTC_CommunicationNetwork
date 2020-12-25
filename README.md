@@ -1,4 +1,4 @@
-# UESTC_InternetofCommunication
+# UESTC_CommunicationNetwork
 ## 电子科大2020年秋通信网络系统基础课程
 该仓库包含2020年秋季研究生通信网络系统基础课程的作业和TCP的AIMD算法公平性分析的课设
 
